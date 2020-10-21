@@ -36,15 +36,21 @@ alias brew="https_proxy={PROXY_HOST}:{PORT} brew"
 
 #### Install geckodriver (firefox) for Seleium WebDriver library (MacOSX)
 
+```
 brew install geckodriver
+```
 
 #### Install chromedriver (GoogleChrome) for Seleium WebDriver library (MacOSX)
 
+```
 brew install chromedriver
+```
 
 #### Install phantomjs (headless *no display* simulator) for Seleium WebDriver library (MacOSX)
 
+```
 brew install phantomjs
+```
 
 ### Ubuntu
 
